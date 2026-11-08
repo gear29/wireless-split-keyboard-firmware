@@ -20,10 +20,8 @@
                 &kp LSHIFT &kp LCTRL &kp LALT &kp SPACE &kp TAB
                 &kp BACKSPACE &kp SPACE &kp RALT &kp RCTRL &kp RSHIFT
 
-                &trans &trans &trans &trans &trans
-                &trans &trans &trans &trans &trans
+                &kp ESC &kp DEL
             >;
         };
     };
 };
-
