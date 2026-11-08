@@ -18,3 +18,13 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+
+
+
+include:
+  - board: xiao_ble
+    shield: wireless_split_left
+
+  - board: xiao_ble
+    shield: wireless_split_right
+
